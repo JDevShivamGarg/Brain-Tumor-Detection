@@ -100,7 +100,7 @@ Always consult a qualified medical professional for health-related decisions.
 ## 👨‍💻 Created By
 
 **Aditya Raj**  
-> Third-year B.Tech CSE | Bennett University  
+> B.Tech CSE | Bennett University  
 > AI Enthusiast
 
 - 📧 Email: [technoadityaraj@gmail.com](mailto:technoadityaraj@gmail.com)
@@ -109,4 +109,11 @@ Always consult a qualified medical professional for health-related decisions.
 - 📸 Instagram: [@ig._adi_](https://www.instagram.com/ig._adi_/)
   
 ---
+
+**Shivam Garg**  
+> B.Tech CSE | Bennett University  
+> AI Enthusiast
+
+- 📧 Email: [shivamcp2694@gmail.com](mailto:shivamcp2694@gmail.com)
+- 💻 GitHub: [@JDevShivamGarg](https://github.com/JDevShivamGarg)
 
